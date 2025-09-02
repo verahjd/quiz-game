@@ -26,4 +26,4 @@ No frameworks or libraries just pure vanilla code.
 ## 🎯 Purpose
 - Practice building an interactive app with only HTML/CSS/JS  
 - Learn how to manage state, UI updates, and events in JavaScript  
-- Share a playful personality test with my friends 👀  
+- Share a playful personality test with my friends 
