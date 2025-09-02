@@ -1,7 +1,7 @@
-# Verah’s Quiz Game 🎮✨
+# Verah’s Quiz Game 🎮
 
 A small **quiz web app** built with **vanilla HTML, CSS, and JavaScript**.  
-I created this project to practice my frontend skills without using frameworks, while also making something fun to share with my friends — a little personality quiz about me.  
+I created this project to practice my frontend skills without using frameworks, while also making something fun to share with my friends.  
 
 ---
 
@@ -19,7 +19,7 @@ I created this project to practice my frontend skills without using frameworks, 
 - **CSS3** → styling & responsive layout  
 - **JavaScript (ES6)** → quiz logic, DOM manipulation, state handling  
 
-No frameworks or libraries — just pure vanilla code.  
+No frameworks or libraries just pure vanilla code.  
 
 ---
 
@@ -28,5 +28,3 @@ This project is a mix of practice and fun:
 - Practice building an interactive app with only HTML/CSS/JS  
 - Learn how to manage state, UI updates, and events in JavaScript  
 - Share a playful personality test with my friends 👀  
-
----
