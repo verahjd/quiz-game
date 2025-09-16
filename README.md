@@ -3,6 +3,7 @@
 A small **quiz web app** built with **vanilla HTML, CSS, and JavaScript**.  
 I created this project to practice my frontend skills without using frameworks, while also making something fun to share with my friends.  
 
+🔗https://personal-verah-quiz-nu.vercel.app/
 ---
 
 ## 🚀 Features
